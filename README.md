@@ -1,4 +1,4 @@
-### Olá ! eu sou o Rafael Neto 😊 
+### Olá ! Eu sou o Rafael Neto 😊 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_netoo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-rafael-neto/)
