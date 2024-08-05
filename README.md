@@ -22,7 +22,7 @@
 
  </div>
 </br>
- Atualmente estudando React e tecnologias de Front-End. Sempre buscando novos conhecimentos!
+ Atualmente estudando análise de dados,React e tecnologias de Front-End. Sempre buscando novos conhecimentos!
 
  ## Contato :
  rafaelneto686@gmail.com || rafael.sousa@ufrpe.br
